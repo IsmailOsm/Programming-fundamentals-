@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b95edcd0-75fe-4165-a6d7-5e7fed64fe55" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/JavaFundamentals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer1/P01Ages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer1/P02Division.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer1/P03Vacation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer1/P04PrintAndSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer1/P05Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer1/P06StrongNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer1/P07VendingMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer1/P08TriangleOfNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer1/P09Orders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer2/P01IntegerOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer2/P02SumDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer2/P03Elevator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer2/P04SumOfChars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer2/P05PrintPartOfASCIITable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer2/P06TriplesOfLatinLetters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer2/P07WaterOverflow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundExer2/P08BeerKegs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundLab01/P01StudentInformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundLab01/P02Passed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundLab01/P03PassedOrFailed.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HIs4c9yN1hMLGSgx3I8JuxyLy8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b95edcd0-75fe-4165-a6d7-5e7fed64fe55" name="Changes" comment="" />
+      <created>1667983743883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667983743883</updated>
+    </task>
+    <servers />
+  </component>
+</project>
