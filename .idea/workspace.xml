@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b95edcd0-75fe-4165-a6d7-5e7fed64fe55" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/JavaFundamentals.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer1/P01Ages.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer1/P02Division.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer1/P03Vacation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer1/P04PrintAndSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer1/P05Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer1/P06StrongNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer1/P07VendingMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer1/P08TriangleOfNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer1/P09Orders.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer2/P01IntegerOperations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer2/P02SumDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer2/P03Elevator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer2/P04SumOfChars.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer2/P05PrintPartOfASCIITable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer2/P06TriplesOfLatinLetters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer2/P07WaterOverflow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundExer2/P08BeerKegs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundLab01/P01StudentInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundLab01/P02Passed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundLab01/P03PassedOrFailed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
